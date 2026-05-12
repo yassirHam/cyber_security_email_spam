@@ -1,0 +1,24 @@
+2026-05-07 23:05:42,239 [ERROR] Critical Error: Could not load model: [Errno 2] No such file or directory: '../../phishing_detector.joblib'
+2026-05-07 23:10:21,032 [INFO] Model loaded successfully.
+2026-05-07 23:10:21,032 [INFO] Extractor loaded successfully.
+2026-05-07 23:10:28,309 [INFO] Model loaded successfully.
+2026-05-07 23:10:28,310 [INFO] Extractor loaded successfully.
+2026-05-07 23:12:13,888 [INFO] Model loaded successfully.
+2026-05-07 23:12:13,888 [INFO] Extractor loaded successfully.
+2026-05-07 23:13:34,070 [INFO] Model loaded successfully.
+2026-05-07 23:13:34,070 [INFO] Extractor loaded successfully.
+2026-05-07 23:13:39,978 [INFO] Model loaded successfully.
+2026-05-07 23:13:39,978 [INFO] Extractor loaded successfully.
+2026-05-07 23:14:45,324 [INFO] Analysis performed. Result: 1
+2026-05-07 23:15:05,392 [INFO] Analysis performed. Result: 1
+2026-05-07 23:17:22,472 [INFO] Analysis performed. Result: 0
+2026-05-07 23:18:06,657 [INFO] Model loaded successfully.
+2026-05-07 23:18:06,657 [INFO] Extractor loaded successfully.
+2026-05-07 23:18:13,556 [INFO] Analysis performed. Result: 0
+2026-05-12 17:40:59,965 | VERDICT:Clean | RISK:Low | IP:127.0.0.1
+2026-05-12 17:42:05,210 | VERDICT:Clean | RISK:Low | IP:127.0.0.1
+2026-05-12 17:43:38,933 | VERDICT:Clean | RISK:Low | IP:127.0.0.1
+2026-05-12 17:45:32,784 | VERDICT:Clean | RISK:Low | IP:127.0.0.1
+2026-05-12 17:45:43,830 | VERDICT:Clean | RISK:Low | IP:127.0.0.1
+2026-05-12 17:46:28,281 | VERDICT:Clean | RISK:Low | IP:127.0.0.1
+2026-05-12 18:02:46,482 | VERDICT:Phishing Detected | RISK:High | IP:127.0.0.1
